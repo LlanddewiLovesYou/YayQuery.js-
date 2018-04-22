@@ -11,7 +11,7 @@ However... instead of `$('dom-element')`
 You'll use: `$y('dom-element')`.
 
 Why?
-`$y` not?
+`$y` not? (the `$y` is for yay!!!!)
 
 `$y` can differentiate between a simple string selector and an HTMLElement and grab
 the correct DOM elements accordingly.
