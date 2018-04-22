@@ -7,7 +7,9 @@ A javascript library for people who are tired of JQuery, but still want to manip
 Perhaps you're used to using ```javascript $('dom-element')``` to select a DOM element.
 
 In YayQuery.js! you'll find a very similar selector.
-However... instead of ```javascript $('dom-element')```
+However... instead of ```javascript
+$('dom-element')
+```
 You'll use: ```javascript $y('dom-element')```.
 
 Why?
