@@ -18,11 +18,11 @@ the correct DOM elements accordingly.
 
 `$y`can also be used to make AJAX requests just as in JQuery, y'know, but with an extra "YAY!"
 
-Finally, you can also extend the $y prototype to add functionality and allow chaining of YayQuery! methods.
+Finally, you can also extend the `$y` prototype to add functionality and allow chaining of YayQuery! methods.
 
 # FAQ
 
-### What can I do with the nodes I've selected with $y?
+### What can I do with the nodes I've selected with `$y`?
 
 Great question!
 
