@@ -4,16 +4,16 @@ A javascript library for people who are tired of JQuery, but still want to manip
 
 # Core functionality
 
-Perhaps you're used to using $('dom-element') to select a DOM element.
+Perhaps you're used to using ```javascript $('dom-element')``` to select a DOM element.
 
 In YayQuery.js! you'll find a very similar selector.
-However... instead of $('dom-element')
-You'll use: $y('dom-element').
+However... instead of ```javascript $('dom-element')```
+You'll use: ```javascript $y('dom-element')```.
 
 Why?
 $y not?
 
-$y can differentiate between a simple string selector and an HTMLElement and grab
+```javascript $y``` can differentiate between a simple string selector and an HTMLElement and grab
 the correct DOM elements accordingly.
 
 $y can also be used to make AJAX requests just as in JQuery, y'know, but with an extra "YAY!"
@@ -26,7 +26,7 @@ Finally, you can also extend the $y prototype to add functionality and allow cha
 
 Great question!
 
-You can use $y('dom-element').append(htmlstuff) to add HTML to the selected elementList
+You can use ```javascript $y('dom-element').append(htmlstuff)``` to add HTML to the selected elementList
 
 Similarly, you can use $y('dom-element').empty() to remove the HTML you just added. Pretty neat huh?
 
